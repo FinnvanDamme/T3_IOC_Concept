@@ -1,0 +1,10 @@
+# Risky Legacy Authentication protocols
+"SMTP"
+"POP"
+"IMAP"
+"autodiscover"
+"EWS"
+"powershell"
+"MAPI"
+"other clients"
+"outlook anywhere"
