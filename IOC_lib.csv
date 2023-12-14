@@ -1,2 +1,3 @@
-value,type
-inspark.nl,URL
+value,type,action
+inspark.nl,URL,safe
+yandex.ru,URL,block
