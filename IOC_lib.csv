@@ -1,3 +1,5 @@
 value,type,action
-inspark.nl,URL,safe
-yandex.ru,URL,block
+inspark.nl,domain,safe
+word_update.exe,file,malware
+ofer.docx,file,malware
+new-tech-savvy.com,domain,malware 
